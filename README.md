@@ -1,4 +1,4 @@
-# Project Name : iCoderBootstrap
+# Project Name : iCoder
 Our bootstrap website contains the latest articles and news about technology. This website was made  using HTML, CSS, and JavaScript. A popular CSS framework called Bootstrap is used here.
 
 ## Table of Contents :
